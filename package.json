@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "vercel-and-nodejs-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbosm/vercel-and-nodejs-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbosm/vercel-and-nodejs-deploy/issues"
+  },
+  "homepage": "https://github.com/pbosm/vercel-and-nodejs-deploy#readme",
+  "description": ""
+}
